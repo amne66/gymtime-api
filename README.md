@@ -1,6 +1,9 @@
 ## Gym time API
 
-#Features
+
+# Features
+
+
 1-Login
 2-add gym
 3-Update gym information
@@ -12,7 +15,9 @@
 9-add rating 
 10-delete unrelated comments
 
-Stack
+
+
+# Stack
 Runtime Environment: `Node.js`
 Language: `JavaScript`
 Web Server: `Express`
