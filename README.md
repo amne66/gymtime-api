@@ -29,10 +29,13 @@
 
 Runtime Environment: `Node.js`
 
-Language: `JavaScript`
+Language: `TypeScript`
 
-Web Server: `Express`
+Web Server: `fasify`
 
 ORM: `mongoose`
 
 DB: `mongo`
+![ERD with colored entities (UML notation)](https://user-images.githubusercontent.com/74457719/174735537-e8fb2f13-5eb2-40df-b3a5-093eb8880bfc.png)
+
+
