@@ -55,9 +55,9 @@ Runtime Environment: `Node.js`
 
 Language: `TypeScript`
 
-Web Server: `fasify`
+Web Server: `fastify`
 
-ORM: `mongoose`
+ORM: `prisma`
 
 DB: `mongo`
 ![ERD with colored entities (UML notation)](https://user-images.githubusercontent.com/74457719/174735537-e8fb2f13-5eb2-40df-b3a5-093eb8880bfc.png)
